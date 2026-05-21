@@ -1,0 +1,318 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - banner [ref=e5]:
+        - generic [ref=e6]:
+          - img [ref=e8]
+          - generic [ref=e10]:
+            - generic [ref=e11]: PINEWOOD
+            - generic [ref=e12]: Trails RV Park
+        - generic [ref=e13]:
+          - link "Amenities" [ref=e14] [cursor=pointer]:
+            - /url: "#amenities"
+          - link "Rates" [ref=e15] [cursor=pointer]:
+            - /url: "#rates"
+          - link "Location" [ref=e16] [cursor=pointer]:
+            - /url: "#location"
+          - button "Reservation Guide" [ref=e17]
+      - main [ref=e18]:
+        - generic [ref=e19]:
+          - generic [ref=e22]: Magnolia, Texas · Montgomery County · Open Year-Round
+          - heading "PINEWOOD TRAILS" [level=1] [ref=e23]:
+            - text: PINEWOOD
+            - text: TRAILS
+          - paragraph [ref=e24]: Southeast Texas' premier RV retreat — towering loblolly pines, private shaded pull-through & back-in sites, full 30/50 amp hookups, and easy online reservations just north of Houston.
+          - generic [ref=e25]:
+            - generic [ref=e26]:
+              - img [ref=e28]
+              - text: 30 & 50 Amp
+            - generic [ref=e30]:
+              - img [ref=e32]
+              - text: Free WiFi
+            - generic [ref=e36]:
+              - img [ref=e38]
+              - text: Pet Friendly
+            - generic [ref=e43]:
+              - img [ref=e45]
+              - text: Full Hookups
+          - generic [ref=e48]:
+            - button "Book Your Site Now" [ref=e49]:
+              - generic [ref=e51]:
+                - text: Book Your Site Now
+                - img [ref=e52]
+            - button "Explore Amenities" [ref=e55]
+      - contentinfo [ref=e56]:
+        - generic [ref=e57] [cursor=pointer]:
+          - generic [ref=e58]: Scroll to Discover
+          - img [ref=e60]
+        - generic [ref=e62]:
+          - generic [ref=e63]:
+            - img [ref=e65]
+            - generic [ref=e68]:
+              - heading "State-of-the-Art Power" [level=3] [ref=e69]
+              - paragraph [ref=e70]: Full 30 & 50 Amp support, dual side-out clearance, and reinforced pad spacing.
+          - generic [ref=e71]:
+            - img [ref=e73]
+            - generic [ref=e79]:
+              - heading "Recreational Pond" [level=3] [ref=e80]
+              - paragraph [ref=e81]: Catch-and-release fishing pond, scenic walking boardwalks, and picnic zones.
+          - generic [ref=e82]:
+            - img [ref=e84]
+            - generic [ref=e87]:
+              - heading "Woodland Trails" [level=3] [ref=e88]
+              - paragraph [ref=e89]: Miles of private rustic trails winding through Montgomery County loblolly pines.
+    - generic [ref=e91]:
+      - generic [ref=e93]:
+        - generic [ref=e94]:
+          - img [ref=e95]
+          - text: Site Anatomy Walkthrough
+        - generic [ref=e97]:
+          - generic [ref=e98]:
+            - generic [ref=e100]: "01"
+            - heading "PINEWOOD TRAILS BASE CAMP" [level=3] [ref=e102]
+            - paragraph [ref=e103]: Luxury Living. Natural Surroundings.
+            - paragraph [ref=e104]: Built to exceed the standards of luxury travel. Features a custom-poured, perfectly level concrete pad bordered by gravel drainage channels and elegant stone pathways, nestled directly in Montgomery County towering loblolly pines.
+          - generic:
+            - generic:
+              - generic: "02"
+            - heading "PREMIER LOTS" [level=3]
+            - paragraph: Featuring custom fire pits and private picnic areas.
+            - paragraph: Immersive nature meets premium hospitality. A hand-built circular stone fire pit coordinates with two premium teak Adirondack chairs, a full stainless outdoor chef kitchen, and warm stringing overhead cafe lights.
+          - generic:
+            - generic:
+              - generic: "03"
+            - heading "FULL HOOKUP UTILITIES" [level=3]
+            - paragraph: State-of-the-art power, water, and septic connections.
+            - paragraph: High-fidelity utility grids designed for absolute convenience. Includes dual-sided, lighted pedestals hosting 30/50 amp smart power grids, rapid hookup fresh water terminals, and direct-line sewer nodes.
+          - generic:
+            - generic:
+              - generic: "04"
+            - heading "YOUR PERFECT ADVENTURE" [level=3]
+            - paragraph: Book Your Stay Today.
+            - paragraph: Watch the canopy complete as a premium Class A expanding RV rolls in, slideouts expand, and the campfire illuminates with silhouette guests. Secure your premium site with us today.
+        - button "Skip Walkthrough" [ref=e111]:
+          - text: Skip Walkthrough
+          - img [ref=e112]
+      - generic [ref=e114]:
+        - generic [ref=e116]:
+          - img [ref=e117]
+          - text: Scroll Down to Orbit
+        - generic [ref=e120]:
+          - generic [ref=e121]: "ZOOM: AUTO"
+          - generic [ref=e122]: ·
+          - generic [ref=e123]: "SHADING: ISOMETRIC"
+          - generic [ref=e124]: ·
+          - generic [ref=e125]: "RENDER: HTML5 CANVAS"
+    - generic [ref=e126]:
+      - generic [ref=e127]:
+        - generic [ref=e128]: Interactive Walkthrough
+        - heading "SCENIC RETREAT" [level=2] [ref=e129]
+        - paragraph [ref=e130]: Scroll to orbit and tour a premium 360° wooded RV lot setup. Experience the spaciousness and organic beauty of Montgomery County before booking.
+      - generic [ref=e131]:
+        - generic:
+          - generic:
+            - generic: LOT 36 ACTIVE TOUR
+          - generic:
+            - generic: "GPS: 30.2284° N, 95.7466° W | BRG: 000° | ELEV: 210.0FT"
+            - generic:
+              - generic: "N"
+        - generic:
+          - generic:
+            - generic: 01 / GATEWAY VIEW
+            - heading "Paved Site Entry" [level=3]
+            - paragraph: Wide-clearance entry point supporting rigs up to 70ft with extra-wide turnaround angles.
+          - generic:
+            - generic:
+              - generic: CLEARANCE
+              - generic: 70 FT
+            - generic:
+              - generic: PITCH
+              - generic: +0.1°
+    - generic [ref=e140]:
+      - generic [ref=e141]:
+        - text: Everything You Need
+        - heading "Park Amenities" [level=2] [ref=e142]
+        - paragraph [ref=e143]: Built for full-timers and weekend adventurers alike — Pinewood Trails has it all on-site.
+      - generic [ref=e144]:
+        - generic [ref=e145]:
+          - img [ref=e147]
+          - heading "Swimming Pool" [level=3] [ref=e151]
+          - paragraph [ref=e152]: Seasonal outdoor pool open Memorial Day through Labor Day.
+        - generic [ref=e153]:
+          - img [ref=e155]
+          - heading "Hot Showers" [level=3] [ref=e158]
+          - paragraph [ref=e159]: Modern bathhouses with hot showers and clean restrooms.
+        - generic [ref=e160]:
+          - img [ref=e162]
+          - heading "Laundry" [level=3] [ref=e166]
+          - paragraph [ref=e167]: On-site coin laundry open daily 6 am – 10 pm.
+        - generic [ref=e168]:
+          - img [ref=e170]
+          - heading "Dog Park" [level=3] [ref=e174]
+          - paragraph [ref=e175]: Fully fenced off-leash area with agility equipment.
+        - generic [ref=e176]:
+          - img [ref=e178]
+          - heading "Park WiFi" [level=3] [ref=e182]
+          - paragraph [ref=e183]: High-speed fiber WiFi across all loops.
+        - generic [ref=e184]:
+          - img [ref=e186]
+          - heading "Fishing Pond" [level=3] [ref=e192]
+          - paragraph [ref=e193]: Stocked catch-and-release pond with picnic areas nearby.
+        - generic [ref=e194]:
+          - img [ref=e196]
+          - heading "Nature Trails" [level=3] [ref=e199]
+          - paragraph [ref=e200]: Miles of shaded trails through Montgomery County pines.
+        - generic [ref=e201]:
+          - img [ref=e203]
+          - heading "Propane" [level=3] [ref=e206]
+          - paragraph [ref=e207]: On-site propane fill station — no need to leave the park.
+        - generic [ref=e208]:
+          - img [ref=e210]
+          - heading "Camp Store" [level=3] [ref=e212]
+          - paragraph [ref=e213]: Ice, firewood, snacks, and basic RV supplies.
+        - generic [ref=e214]:
+          - img [ref=e216]
+          - heading "Recycling" [level=3] [ref=e221]
+          - paragraph [ref=e222]: Full recycling stations throughout the park.
+        - generic [ref=e223]:
+          - img [ref=e225]
+          - heading "Picnic Areas" [level=3] [ref=e228]
+          - paragraph [ref=e229]: Shaded pavilions and fire rings for group gatherings.
+        - generic [ref=e230]:
+          - img [ref=e232]
+          - heading "Gated Entry" [level=3] [ref=e234]
+          - paragraph [ref=e235]: 24/7 gated access with security code for registered guests.
+    - generic [ref=e237]:
+      - generic [ref=e238]:
+        - text: Transparent Pricing
+        - heading "Nightly Rates" [level=2] [ref=e239]
+        - paragraph [ref=e240]: All rates include water, sewer, and WiFi. Taxes and a $15 booking fee apply at checkout.
+      - generic [ref=e241]:
+        - generic [ref=e242]:
+          - generic [ref=e243]:
+            - heading "Standard" [level=3] [ref=e244]
+            - paragraph [ref=e245]: 30-Amp · Back-In
+          - generic [ref=e246]:
+            - generic [ref=e247]: $63
+            - generic [ref=e248]: / night
+            - generic [ref=e249]: starting
+          - list [ref=e250]:
+            - listitem [ref=e251]:
+              - img [ref=e252]
+              - text: 30-Amp Power
+            - listitem [ref=e254]:
+              - img [ref=e255]
+              - text: Water & Sewer
+            - listitem [ref=e257]:
+              - img [ref=e258]
+              - text: Free WiFi
+            - listitem [ref=e260]:
+              - img [ref=e261]
+              - text: Pet-Friendly Sites Available
+            - listitem [ref=e263]:
+              - img [ref=e264]
+              - text: Up to 45 ft RV
+          - button "View Available Sites" [ref=e266] [cursor=pointer]
+        - generic [ref=e267]:
+          - generic [ref=e268]: Most Popular
+          - generic [ref=e269]:
+            - heading "Full Hook-Up" [level=3] [ref=e270]
+            - paragraph [ref=e271]: 50-Amp · Back-In
+          - generic [ref=e272]:
+            - generic [ref=e273]: $76
+            - generic [ref=e274]: / night
+            - generic [ref=e275]: starting
+          - list [ref=e276]:
+            - listitem [ref=e277]:
+              - img [ref=e278]
+              - text: 50-Amp Power
+            - listitem [ref=e280]:
+              - img [ref=e281]
+              - text: Water & Sewer
+            - listitem [ref=e283]:
+              - img [ref=e284]
+              - text: Free WiFi
+            - listitem [ref=e286]:
+              - img [ref=e287]
+              - text: Patio Available
+            - listitem [ref=e289]:
+              - img [ref=e290]
+              - text: Up to 65 ft RV
+          - button "View Available Sites" [ref=e292] [cursor=pointer]
+        - generic [ref=e293]:
+          - generic [ref=e294]:
+            - heading "Premium Pull-Thru" [level=3] [ref=e295]
+            - paragraph [ref=e296]: 50-Amp · Pull-Through
+          - generic [ref=e297]:
+            - generic [ref=e298]: $80
+            - generic [ref=e299]: / night
+            - generic [ref=e300]: starting
+          - list [ref=e301]:
+            - listitem [ref=e302]:
+              - img [ref=e303]
+              - text: 50-Amp Power
+            - listitem [ref=e305]:
+              - img [ref=e306]
+              - text: Water & Sewer
+            - listitem [ref=e308]:
+              - img [ref=e309]
+              - text: High-Speed WiFi
+            - listitem [ref=e311]:
+              - img [ref=e312]
+              - text: Patio & Fire Pit
+            - listitem [ref=e314]:
+              - img [ref=e315]
+              - text: Up to 75 ft RV
+            - listitem [ref=e317]:
+              - img [ref=e318]
+              - text: Slide-Out Clearance
+          - button "View Available Sites" [ref=e320] [cursor=pointer]
+    - generic [ref=e322]:
+      - generic [ref=e323]:
+        - text: Find Us
+        - heading "Getting Here" [level=2] [ref=e324]
+        - generic [ref=e325]:
+          - generic [ref=e326]:
+            - img [ref=e328]
+            - generic [ref=e331]:
+              - paragraph [ref=e332]: Address
+              - paragraph [ref=e333]: Magnolia, TX 77354 Montgomery County, Texas
+          - generic [ref=e334]:
+            - img [ref=e336]
+            - generic [ref=e338]:
+              - paragraph [ref=e339]: Reservations
+              - paragraph [ref=e340]: (936) 555-0192
+          - generic [ref=e341]:
+            - img [ref=e343]
+            - generic [ref=e346]:
+              - paragraph [ref=e347]: Email
+              - paragraph [ref=e348]: reservations@pinewoodtrailsrv.com
+          - generic [ref=e349]:
+            - img [ref=e351]
+            - generic [ref=e354]:
+              - paragraph [ref=e355]: Hours
+              - paragraph [ref=e356]: "Open Year-Round Check-in: 2:00 PM · Check-out: 12:00 PM"
+      - generic [ref=e360]:
+        - text: Add
+        - code [ref=e361]: NEXT_PUBLIC_MAPBOX_TOKEN
+        - text: to your
+        - code [ref=e362]: .env.local
+        - text: to enable the site map.
+    - contentinfo [ref=e363]:
+      - generic [ref=e364]:
+        - generic [ref=e365]:
+          - img [ref=e367]
+          - generic [ref=e369]:
+            - generic [ref=e370]: PINEWOOD TRAILS
+            - text: RV Park · Magnolia, TX
+        - navigation [ref=e371]:
+          - link "Amenities" [ref=e372] [cursor=pointer]:
+            - /url: "#amenities"
+          - link "Rates" [ref=e373] [cursor=pointer]:
+            - /url: "#rates"
+          - link "Location" [ref=e374] [cursor=pointer]:
+            - /url: "#location"
+          - button "Book Now" [ref=e375] [cursor=pointer]
+        - paragraph [ref=e376]: © 2026 Pinewood Trails RV Park. All rights reserved.
+  - button "Open Next.js Dev Tools" [ref=e382] [cursor=pointer]:
+    - img [ref=e383]
